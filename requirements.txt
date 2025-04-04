@@ -1,9 +1,7 @@
-pip~=24.0
-setuptools~=65.5.0
 numpy
 pandas
 scipy
-matplotlib==3.7.0
 streamlit
-pandas-profiling
-streamlit-pandas-profiling
+ydata-profiling
+openpyxl
+xlrd
